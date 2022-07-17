@@ -1,0 +1,51 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Soplica blog</title>
+        <link>http://example.org/posts/</link>
+        <description>Recent content in Posts on Soplica blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 17 Jul 2022 22:08:42 +0200</lastBuildDate>
+        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>About_me</title>
+            <link>http://example.org/posts/misc/about_me/</link>
+            <pubDate>Sun, 17 Jul 2022 22:08:42 +0200</pubDate>
+            
+            <guid>http://example.org/posts/misc/about_me/</guid>
+            <description>Hello friend Hello and welcome to this highly sophisticated piece of writing (my blog)
+First ever piece of article requires an introduction.
+My name is Jacob, I&amp;rsquo;m 22, I work as a backend python developer. This blog won&amp;rsquo;t only be about programming and IT related stuff, I&amp;rsquo;ll try to post from time to time.
+I&amp;rsquo;m very curious about few things:
+Will anyone come across this blog Will I post here after 2 weeks ?</description>
+            <content type="html"><![CDATA[<h2 id="hello-friend">Hello friend</h2>
+<p>Hello and welcome to this highly sophisticated piece of writing (my blog)</p>
+<p>First ever piece of article requires an introduction.</p>
+<p>My name is Jacob, I&rsquo;m 22, I work as a backend python developer.
+This blog won&rsquo;t only be about programming and IT related stuff, I&rsquo;ll try to post from time to time.</p>
+<p>I&rsquo;m very curious about few things:</p>
+<ul>
+<li>Will anyone come across this blog</li>
+<li>Will I post here after 2 weeks</li>
+<li>?</li>
+<li>profit</li>
+</ul>
+<h4 id="more-info-about-me">More info about me</h4>
+<ul>
+<li>I like good cuisine</li>
+<li>I prefer classic movies</li>
+<li><del>My best friend is a retard</del></li>
+<li>I like fishing</li>
+<li>I play games</li>
+<li>Love coding</li>
+<li>Part-time music producer</li>
+<li>IT engineer in the making</li>
+</ul>
+<p>My <a href="https://github.com/rave1">github</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
