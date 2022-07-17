@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Soplica blog</title>
-    <link>http://example.org/tags/about/</link>
+    <link>https://rave1.github.io/tags/about/</link>
     <description>Recent content in about on Soplica blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 17 Jul 2022 22:08:42 +0200</lastBuildDate><atom:link href="http://example.org/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 22:08:42 +0200</lastBuildDate><atom:link href="https://rave1.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About_me</title>
-      <link>http://example.org/posts/misc/about_me/</link>
+      <link>https://rave1.github.io/posts/misc/about_me/</link>
       <pubDate>Sun, 17 Jul 2022 22:08:42 +0200</pubDate>
       
-      <guid>http://example.org/posts/misc/about_me/</guid>
+      <guid>https://rave1.github.io/posts/misc/about_me/</guid>
       <description>Hello friend Hello and welcome to this highly sophisticated piece of writing (my blog)
 First ever piece of article requires an introduction.
 My name is Jacob, I&amp;rsquo;m 22, I work as a backend python developer. This blog won&amp;rsquo;t only be about programming and IT related stuff, I&amp;rsquo;ll try to post from time to time.
