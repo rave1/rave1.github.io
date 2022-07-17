@@ -1,4 +1,4 @@
-baseurl      = "https://rave1.github.io"
+baseURL      = "https://rave1.github.io"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
